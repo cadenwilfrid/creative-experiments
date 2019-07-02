@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Cards</title>
-    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="cards.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:500&display=swap" rel="stylesheet">
 </head>
 
@@ -17,7 +17,7 @@
         </div>
         <img src="image.jpg">
     </div>
-    <script src="index.js"></script>
+    <script src="cards.js"></script>
 </body>
 
 </html>
